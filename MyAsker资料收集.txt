@@ -1,0 +1,33 @@
+[5月9日]不单单的资料收集，修改为思考过程。不同的东西要使用不同的学习方法。
+http://www.cnblogs.com/woodk/p/5215652.html								搭建 AngularJS+Ionic+Cordova 开发环境并运行一个demo
+http://www.25xt.com/html5css3/5319.html									用html5+css3开发webAPP项目基础知识介绍
+http://36kr.com/p/217260.html											Web App和Native App不是生死之争——反思HTML5惨痛的500天和四个谎言
+http://blog.csdn.net/zoutongyuan/article/details/41910903				使用Ionic + Apache Cordova开发跨平台混合型的移动应用 
+https://segmentfault.com/a/1190000002954226								最佳（也许）实践：开始用Cordova + Ionic + AngularJS 开发你的 App
+http://www.cocoachina.com/webapp/20150707/12395.html					实践分享：开始用Cordova+Ionic+AngularJS开发App
+http://www.open-open.com/lib/view/open1452134658823.html				Windows + Android + Cordova + ionic环境搭建
+http://www.ionic.wang/													
+https://item.jd.com/11342818.html										用AngularJS开发下一代Web应用
+https://item.jd.com/12064746.html										React（第2版）：引领未来的用户界面开发框架
+http://www.ionic.wang/article-index-id-57.html							8个hybrid app开发工具
+http://www.ionic.wang/article-index-id-61.html							ngCordova安装配置使用教程
+http://www.cnblogs.com/Lxiaolong/p/5399008.html
+http://www.aliyue.net/webdevel
+http://www.aliyue.net/353.html
+http://www.aliyue.net/317.html
+
+
+[1] 了解angular.js和ionic框架搭建一个webApp，见：
+http://blog.csdn.net/huwei2003/article/details/52277095
+	扩展HTML的语法，见angularjs的内容：http://www.runoob.com/angularjs/angularjs-tutorial.html，这个内容讲解的不错
+[2] IM后台的使用什么程序呢？这个另外同上完全不着边的东西，可以并行开发
+	可以看看这个网站：http://www.52im.net/
+	
+http://www.python88.com/topic/1624/																QQBot：基于SmartQQ协议的QQ机器人
+http://blog.csdn.net/qinggebuyao/article/category/1200039										qq协议系列
+http://www.oicqzone.com/qqjiqiao/2017011223639.html												微信序列号生成器架构设计及演变
+http://blog.csdn.net/qian_xiaoqian/article/details/53128134										 万亿级调用下的优雅——微信序列号生成器架构设计及演变(下)
+APP的种类与市场调研
+混合开发：ionic COrdova
+学习这些知识的目的，不是为了记住，而是为了解决问题，任何不能解决问题的知识其实都算不上有用的。
+ionic实战，1-3章
